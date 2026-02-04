@@ -9,11 +9,10 @@ models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="SplitMint API")
 
+import os
+
 # CORS setup
-origins = [
-    "http://localhost:3000",
-    "http://127.0.0.1:3000",
-]
+origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:3000,http://127.0.0.1:3000").split(",")
 
 app.add_middleware(
     CORSMiddleware,
