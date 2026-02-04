@@ -5,10 +5,10 @@
 ![SplitMint Banner](https://via.placeholder.com/1200x600?text=SplitMint+Dashboard+Preview) 
 *(Replace this link with a screenshot of your dashboard)*
 
-## 🚀 Overview
-SplitMint is a full-stack financial application that simplifies group expenses. Unlike standard splitters, it features a **"Minimize Cash Flow" engine** to reduce the total number of transactions required to settle debts and **"MintSense,"** an AI-powered receipt parser.
+## 🚀 Live Demo
+**Website:** [https://split-mint-gamma.vercel.app/](https://split-mint-gamma.vercel.app/)
 
-## 🎥 Demo
+## 🎥 Demo Walkthrough
 **[Watch the 60-Second Walkthrough Video](LINK_TO_YOUR_VIDEO_HERE)**
 *(Highly Recommended: Add your Loom/YouTube link here)*
 
